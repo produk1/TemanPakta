@@ -78,6 +78,14 @@
             data: "Tanggal Terbit",
             title: "Tanggal Terbit",
         },
+        {
+            data: "Penggugat",
+            title: "Penggugat",
+        },
+        {
+            data: "Tergugat",
+            title: "Tergugat",
+        },
 
       ],
       rowId: "Nomor Perkara",
@@ -85,5 +93,3 @@
     });
   });
     </script>
-  </body>
-</html>
