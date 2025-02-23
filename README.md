@@ -25,7 +25,7 @@
       type="text/css"
       href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.bootstrap.min.css"
     />
-    <tittle>![Uploading aaa.png…]()Pengadilan Agama Bengkulu Kelas 1A</tittle>
+    <tittle>![aaa](https://github.com/user-attachments/assets/6f10946d-2ecc-4f4d-ab75-8a26aeb3d6dc) Pengadilan Agama Bengkulu Kelas 1A</tittle>
  
   <head>
   <body>
