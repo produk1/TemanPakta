@@ -77,10 +77,6 @@
             title: "Nomor Akta Cerai",
         },
         {
-            data: "Tanggal Terbit",
-            title: "Tanggal Terbit",
-        },
-        {
             data: "Penggugat / Pemohon",
             title: "Penggugat / Pemohon",
         },
@@ -95,5 +91,5 @@
     });
   });
     </script>
-  </body>
+  </body>-Sistem Layanan Informasi Penerbitan Akta Cerai-
 </html>
