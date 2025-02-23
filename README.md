@@ -1,7 +1,10 @@
+<!DOCTYPE html>
 <html lang="en">
+  <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </head>
     <link
       rel="stylesheet"
       type="text/css"
@@ -23,13 +26,15 @@
       href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.bootstrap.min.css"
     />
     <tittle>Pengadilan Agama Bengkulu Kelas 1A</tittle>
-
+ 
+  </head>
+  <body">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
           <h3 class="text-center mb-4">Sistem Layanan Informasi Penerbitan Akta Cerai</h3>
           <h4 class="text-center mb-4">(TEMAN PAKTA)</h4>
-          <h5 class="text-center mb-4" id="AC"></h5>
+          <h5 class="text-center mb-4" id="AC"></h4>
           <br>
           <br>
           <table
@@ -83,9 +88,12 @@
             data: "Tergugat / Termohon",
             title: "Tergugat / Termohon",
         },
+
       ],
       rowId: "Nomor Perkara",
       liveAjax: true,
     });
   });
     </script>
+  </body>
+</html>
