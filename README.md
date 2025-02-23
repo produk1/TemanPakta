@@ -31,7 +31,7 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10">
+        <div class="col-lg-11 col-md-11 col-sm-11 col-xs-11">
           <h3 class="text-center mb-4">SISTEM LAYANAN INFORMASI PENERBITAN AKTA CERAI<h3>
             <h3 class="text-center mb-4">(TEMAN PAKTA)</h3>
           <h4 class="text-center mb-2" id="AC"><h4>
