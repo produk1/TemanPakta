@@ -26,15 +26,13 @@
       type="text/css"
       href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.bootstrap.min.css"
     />
-    <tittle>Pengadilan Agama Bengkulu Kelas 1A</tittle>
  
   <head>
   <body>
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <h3 class="text-center mb-2">Sistem Layanan Informasi Penerbitan Akta Cerai<h3>
-          <h3 class="text-center mb-2">(TEMAN PAKTA)<h3>
+          <h3 class="text-center mb-4">SISTEM LAYANAN INFORMASI PENERBITAN AKTA CERAI (TEMAN PAKTA)<h3>
           <h4 class="text-center mb-2" id="AC"><h4>
           <br>
           <br>
