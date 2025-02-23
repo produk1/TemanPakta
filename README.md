@@ -33,8 +33,8 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
           <h3 class="text-center mb-4">Sistem Layanan Informasi Penerbitan Akta Cerai</h3>
-          <h4 class="text-center mb-4">(TEMAN PAKTA)</h4>
-          <h5 class="text-center mb-4" id="AC"></h4>
+          <h3 class="text-center mb-4">(TEMAN PAKTA)</h3>
+          <h4 class="text-center mb-4" id="AC"></h4>
           <br>
           <br>
           <table
@@ -97,6 +97,3 @@
     </script>
   </body>
 </html>
-
-
-
