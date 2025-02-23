@@ -1,3 +1,4 @@
+![aaa](https://github.com/user-attachments/assets/6f10946d-2ecc-4f4d-ab75-8a26aeb3d6dc)
 <DOCTYPE html>
 <html lang="en">
   <head>
@@ -25,7 +26,7 @@
       type="text/css"
       href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.bootstrap.min.css"
     />
-    <tittle>![aaa](https://github.com/user-attachments/assets/6f10946d-2ecc-4f4d-ab75-8a26aeb3d6dc) Pengadilan Agama Bengkulu Kelas 1A</tittle>
+    <tittle>Pengadilan Agama Bengkulu Kelas 1A</tittle>
  
   <head>
   <body>
@@ -33,8 +34,8 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
           <h3 class="text-center mb-4">Sistem Layanan Informasi Penerbitan Akta Cerai<h3>
-          <h4 class="text-center mb-4">(TEMAN PAKTA)<h4>
-          <h5 class="text-center mb-4" id="AC"><h5>
+          <h3 class="text-center mb-4">(TEMAN PAKTA)<h3>
+          <h4 class="text-center mb-4" id="AC"><h4>
           <br>
           <br>
           <table
