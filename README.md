@@ -25,8 +25,7 @@
       href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.bootstrap.min.css"
     />
     <tittle>Pengadilan Agama Bengkulu Kelas 1A</tittle>
- 
-  </head>
+
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -86,7 +85,6 @@
             data: "Tergugat",
             title: "Tergugat",
         },
-
       ],
       rowId: "Nomor Perkara",
       liveAjax: true,
