@@ -1,4 +1,3 @@
-![WhatsApp Image 2025-02-07 at 15 29 14](https://github.com/user-attachments/assets/81673190-20a1-4bf8-b80f-43050e2a219f)
 <DOCTYPE html>
 <html lang="en">
   <head>
@@ -26,7 +25,7 @@
       type="text/css"
       href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.bootstrap.min.css"
     />
-    <tittle>Pengadilan Agama Bengkulu Kelas 1A</tittle>
+    <tittle>![Uploading aaa.png…]()Pengadilan Agama Bengkulu Kelas 1A</tittle>
  
   <head>
   <body>
