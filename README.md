@@ -31,18 +31,17 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12">
           <h3 class="text-center mb-4">SISTEM LAYANAN INFORMASI PENERBITAN AKTA CERAI<h3>
             <h3 class="text-center mb-4">(TEMAN PAKTA)</h3>
-          <h4 class="text-center mb-2" id="AC"><h4>
+          <h4 class="text-center mb-4" id="AC"><h4>
           <br>
           <br>
           <table
             id="example"
-            class="table table-striped table-bordered table-dark mt-2 mb-2"
+            class="table table-striped table-bordered mt-4 mb-4"
             style="width: 100%"
           ></table>
-          <br />
           <br />
           <p id="Nomor Perkara"></p>
         <div>
