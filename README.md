@@ -31,7 +31,7 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="col-lg-12 col-md-12 col-sm-10 col-xs-10">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
           <h3 class="text-center mb-4">SISTEM LAYANAN INFORMASI PENERBITAN AKTA CERAI<h3>
             <h3 class="text-center mb-4">(TEMAN PAKTA)</h3>
           <h4 class="text-center mb-2" id="AC"><h4>
@@ -39,7 +39,7 @@
           <br>
           <table
             id="example"
-            class="table table-striped table-bordered mt-4 mb-4"
+            class="table table-striped table-bordered mt-2 mb-4"
             style="width: 100%"
           ></table>
           <br />
@@ -61,7 +61,7 @@
       ajax: "https://script.google.com/macros/s/AKfycby0QyUBgOvCfFPVma1rRzk6aGXdMZh-qOSg3ln1DckIw1dm_tkLS9Y6ii0tznDHcNLE/exec",
       columns: [
         {
-            title: "Nomor",
+            title: "No",
             data: "No",
         },
         {
