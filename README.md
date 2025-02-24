@@ -39,7 +39,7 @@
           <br>
           <table
             id="example"
-            class="table table-striped table-bordered mt-2 mb-4"
+            class="table table-striped table-bordered mt-2 mb-2"
             style="width: 100%"
           ></table>
           <br />
@@ -61,7 +61,7 @@
       ajax: "https://script.google.com/macros/s/AKfycby0QyUBgOvCfFPVma1rRzk6aGXdMZh-qOSg3ln1DckIw1dm_tkLS9Y6ii0tznDHcNLE/exec",
       columns: [
         {
-            title: "No",
+            title: "Nomor",
             data: "No",
         },
         {
@@ -69,7 +69,7 @@
             data: "Nomor Perkara",
         },
         {
-            title: "Status",
+            title: "  Status  ",
             data: "Status",
         },
         {
