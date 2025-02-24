@@ -39,7 +39,7 @@
           <br>
           <table
             id="example"
-            class="table table-striped table-bordered mt-2 mb-2"
+            class="table table-striped table-bordered table-dark mt-2 mb-2"
             style="width: 100%"
           ></table>
           <br />
