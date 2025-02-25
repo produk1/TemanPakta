@@ -1,4 +1,4 @@
-<background>![Screenshot 2025-02-19 150716](https://github.com/user-attachments/assets/5ef2f4f6-6234-4197-8bec-c337c7130d19)
+![Screenshot 2025-02-19 150716](https://github.com/user-attachments/assets/5ef2f4f6-6234-4197-8bec-c337c7130d19)
 <DOCTYPE html>
 <html lang="en">
   <head>
@@ -31,7 +31,7 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="col-lg-20 col-md-12 col-sm-12 col-xs-12">
+        <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12">
           <h3 class="text-center mb-4">SISTEM LAYANAN INFORMASI PENERBITAN AKTA CERAI<h3>
             <h3 class="text-center mb-4">(TEMAN PAKTA)</h3>
           <h4 class="text-center mb-4" id="AC"><h4>
