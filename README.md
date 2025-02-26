@@ -60,7 +60,7 @@
       ajax: "https://script.google.com/macros/s/AKfycby0QyUBgOvCfFPVma1rRzk6aGXdMZh-qOSg3ln1DckIw1dm_tkLS9Y6ii0tznDHcNLE/exec",
       columns: [
         {
-            title: "Nomor",
+            title: "No",
             data: "No",
         },
         {
@@ -82,6 +82,10 @@
         {
             data: "Tergugat / Termohon",
             title: "Tergugat / Termohon",
+        },
+        {
+            data: "No. Seri",
+            title: "Nomor Seri",
         },
 
       ],
