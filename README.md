@@ -4,7 +4,7 @@
   <head>
     <style>
       body {
-        background-image: url('https://cdn.langit7.id/foto/850/langit7/berita/2022/04/11/1/14312/4962-instansi-kerja-sama-manfaatkan-data-dukcapil-kemendagri-gow.jpg');
+        background-image: url('https://i.ytimg.com/vi/HZx5v92PILE/mqdefault.jpg');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: 100% 100%;
