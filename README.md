@@ -1,4 +1,4 @@
-<img src="https://www.pa-bengkulukota.go.id/images/banners/Logo_Header_PA.jpg" alt="Pengadilan Agama Bengkulu" width="1800" height="500">
+<img src="https://www.pa-bengkulukota.go.id/images/banners/Logo_Header_PA.jpg" alt="Pengadilan Agama Bengkulu" width="full" height="full">
 <DOCTYPE html>
 <html lang="en">
   <head>
