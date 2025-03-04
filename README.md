@@ -4,7 +4,7 @@
   <head>
     <style>
       body {
-        background-image: url ('![Desain tanpa judul](https://github.com/user-attachments/assets/95e78443-4ed0-4435-9f91-b769609b5d7d)');
+        background-image: url ('https://media.istockphoto.com/id/1325676218/id/foto/bisnis-dan-pengacara-membahas-makalah-kontrak-dengan-skala-kuningan-di-atas-meja-di-kantor.jpg?b=1&s=612x612&w=0&k=20&c=3L0sBGDo2TDX1XQM8VFdZIQP8yGOMR2q1YNTS-D4v4E=');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: 100% 100%;
@@ -40,8 +40,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12">
-          <h1 class="text-center mb-4">SISTEM LAYANAN INFORMASI PENERBITAN AKTA CERAI<h1>
-            <h1 class="text-center mb-4">(TEMAN PAKTA)</h1>
+          <h3 class="text-center mb-4">SISTEM LAYANAN INFORMASI PENERBITAN AKTA CERAI
+              (TemAN PAktA)<h3>
           <h4 class="text-center mb-4" id="AC"><h4>
           <br>
           <br>
