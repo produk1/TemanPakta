@@ -2,6 +2,11 @@
 <DOCTYPE html>
 <html lang="en">
   <head>
+    <style>
+      body {
+        background-image: url('https://cdn.langit7.id/foto/850/langit7/berita/2022/04/11/1/14312/4962-instansi-kerja-sama-manfaatkan-data-dukcapil-kemendagri-gow.jpg');
+        }
+    </style>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -32,8 +37,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12">
-          <h3 class="text-center mb-4">SISTEM LAYANAN INFORMASI PENERBITAN AKTA CERAI<h3>
-            <h3 class="text-center mb-4">(TEMAN PAKTA)</h3>
+          <h1 class="text-center mb-4">SISTEM LAYANAN INFORMASI PENERBITAN AKTA CERAI<h1>
+            <h1 class="text-center mb-4">(TEMAN PAKTA)</h1>
           <h4 class="text-center mb-4" id="AC"><h4>
           <br>
           <br>
