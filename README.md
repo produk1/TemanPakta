@@ -7,7 +7,7 @@
         background-image: url ('https://media.istockphoto.com/id/469389478/id/foto/konsep-keadilan-hukum-berskala-pada-latar-belakang-hijau.jpg?s=170667a&w=0&k=20&c=cgHz_VaSIm3a2dQ5SxxKPXmdRroImNOgokjO5jkTW08=');
         background-repeat: no-repeat;
         background-attachment: fixed;
-        background-size: 100% 100%;
+        background-size: cover;
         }
     </style>
     <meta charset="UTF-8" />
@@ -40,9 +40,9 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12">
-          <h2 class="text-center mb-4">SISTEM LAYANAN INFORMASI PENERBITAN AKTA CERAI
-              (TemAN PAktA)<h2>
-          <h1 class="text-center mb-4" id="AC"><h1>
+          <h1 class="text-center mb-4">SISTEM LAYANAN INFORMASI PENERBITAN AKTA CERAI
+              (TemAN PAktA)<h1>
+          <h4 class="text-center mb-4" id="AC"><h4>
           <br>
           <br>
           <table
