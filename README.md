@@ -4,7 +4,7 @@
   <head>
     <style>
       body {
-        background-image: url ![Desain tanpa judul](https://github.com/user-attachments/assets/95e78443-4ed0-4435-9f91-b769609b5d7d);
+        background-image: url ('![Desain tanpa judul](https://github.com/user-attachments/assets/95e78443-4ed0-4435-9f91-b769609b5d7d)');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: 100% 100%;
