@@ -1,10 +1,11 @@
+
+<img src="https://www.pa-bengkulukota.go.id/images/banners/Logo_Header_PA.jpg" alt="Pengadilan Agama Bengkulu" width="full" height="full">
 <DOCTYPE html>
-    <img src="https://www.pa-bengkulukota.go.id/images/banners/Logo_Header_PA.jpg" alt="Logo Header Teman Pakta" width="1270" height="188">
 <html lang="en">
   <head>
     <style>
       body {
-        background-image: url('https://media.istockphoto.com/id/903934810/photo/law-symbols-isolated.jpg?s=612x612&w=0&k=20&c=HVgMIqwXrxNEtvxs5_BcT68LK9ETOSV1FafUIo6JjPw=');
+        background-image: url('https://media.istockphoto.com/id/469389478/id/foto/konsep-keadilan-hukum-berskala-pada-latar-belakang-hijau.jpg?s=170667a&w=0&k=20&c=cgHz_VaSIm3a2dQ5SxxKPXmdRroImNOgokjO5jkTW08=');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: 100% 100%;
@@ -37,11 +38,11 @@
  
   <head>
   <body>
-    <div class="container mt-4">
+    <div class="container">
       <div class="row">
-        <div class="col-lg-full col-md-full col-sm-full col-xs-full">
-          <h1 class="text-center mb-4">SISTEM  LAYANAN  INFORMASI  PENERBITAN  AKTA  CERAI<h1>
-            <h1 class="text-center mb-4">(TemAN PAktA)</h1>
+        <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12">
+          <h1 class="text-center mb-4">SISTEM  LAYANAN  INFORMASI  PENERBITAN  AKTA  CERAI
+            (TemAN PAktA)<h1>
           <h4 class="text-center mb-4" id="AC"><h4>
           <br>
           <br>
