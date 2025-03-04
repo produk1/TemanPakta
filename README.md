@@ -1,7 +1,7 @@
+<img src="https://www.pa-bengkulukota.go.id/images/banners/Logo_Header_PA.jpg" alt="Pengadilan Agama Bengkulu" width="1800" height="500">
 <DOCTYPE html>
 <html lang="en">
   <head>
-    <img src="https://www.pa-bengkulukota.go.id/images/banners/Logo_Header_PA.jpg" alt="Pengadilan Agama Bengkulu" width="1800" height="500">
     <style>
       body {
         background-image: url('https://media.istockphoto.com/id/469389478/id/foto/konsep-keadilan-hukum-berskala-pada-latar-belakang-hijau.jpg?s=170667a&w=0&k=20&c=cgHz_VaSIm3a2dQ5SxxKPXmdRroImNOgokjO5jkTW08=');
