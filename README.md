@@ -4,11 +4,11 @@
   <head>
     <style>
       body {
-        background-image: url ('https://jurnalpost.com/wp-content/uploads/2022/03/Restorative-Justice.jpg');
+        background-image: url('https://media.istockphoto.com/id/469389478/id/foto/konsep-keadilan-hukum-berskala-pada-latar-belakang-hijau.jpg?s=170667a&w=0&k=20&c=cgHz_VaSIm3a2dQ5SxxKPXmdRroImNOgokjO5jkTW08=');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
-        }
+      }
     </style>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
