@@ -39,7 +39,7 @@
   <body>
     <div class="container mt-4">
       <div class="row">
-        <div class="col-lg-full col-md-full col-sm-full col-xs-full">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
           <h1 class="text-center mb-4">SISTEM  LAYANAN  INFORMASI  PENERBITAN  AKTA  CERAI<h1>
             <h1 class="text-center mb-4">(TemAN PAktA)</h1>
           <h4 class="text-center mb-4" id="AC"><h4>
@@ -48,7 +48,7 @@
           <table
             id="example"
             class="table table-striped table-bordered mt-4 mb-4"
-            style="width: 100%"
+            style="width: 100"
           ></table>
           <br />
           <p id="Nomor Perkara"></p>
@@ -63,7 +63,7 @@
     <script src="https://cdn.datatables.net/responsive/2.2.9/js/responsive.bootstrap.min.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script type="text/javascript">
-       $(document).ready(function () {
+       $(document).ready(function (Data Belum Tersedia) {
     $("#example").DataTable({
       ajax: "https://script.google.com/macros/s/AKfycby0QyUBgOvCfFPVma1rRzk6aGXdMZh-qOSg3ln1DckIw1dm_tkLS9Y6ii0tznDHcNLE/exec",
       columns: [
