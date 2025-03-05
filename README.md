@@ -38,7 +38,7 @@
   <body>
     <div class="container">
       <div class="row">
-        <img src="https://www.pa-bengkulukota.go.id/images/banners/Logo_Header_PA.jpg" alt="Pengadilan Agama Bengkulu" width="1470" height="188">
+        <img src="https://www.pa-bengkulukota.go.id/images/banners/Logo_Header_PA.jpg" alt="Pengadilan Agama Bengkulu" width="full" height="full">
         <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12">
           <h1 class="text-center mb-4">SISTEM  LAYANAN  INFORMASI  PENERBITAN  AKTA  CERAI<h1><h1 class="text-center mb-4">(TemAN PAktA)<h1>
           <h4 class="text-center mb-4" id="AC"><h4>
