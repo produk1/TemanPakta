@@ -3,7 +3,7 @@
   <head>
     <style>
       body {
-        background-image: url('https://media.istockphoto.com/id/469389478/id/foto/konsep-keadilan-hukum-berskala-pada-latar-belakang-hijau.jpg?s=170667a&w=0&k=20&c=cgHz_VaSIm3a2dQ5SxxKPXmdRroImNOgokjO5jkTW08=');
+        background-image: url('https://i.pinimg.com/736x/95/08/c7/9508c7a648d0ad2383fa8f9f37af08ce.jpg');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: 100% 100%;
