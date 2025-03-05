@@ -39,6 +39,7 @@
   <head>
   <body>
     <div class="container">
+      <div class="row">
         <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12">
           <h1 class="text-center mb-4">SISTEM  LAYANAN  INFORMASI  PENERBITAN  AKTA  CERAI
             (TemAN PAktA)<h1>
@@ -52,8 +53,6 @@
           ></table>
           <br />
           <p id="Nomor Perkara"></p>
-        <div>
-      <div>
     <div>
     <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
     <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
