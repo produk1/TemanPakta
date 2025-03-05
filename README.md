@@ -38,7 +38,7 @@
  
   <head>
   <body>
-      <div class="row">
+    <div class="container">
         <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12">
           <h1 class="text-center mb-4">SISTEM  LAYANAN  INFORMASI  PENERBITAN  AKTA  CERAI
             (TemAN PAktA)<h1>
