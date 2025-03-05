@@ -1,5 +1,3 @@
-
-<img src="https://www.pa-bengkulukota.go.id/images/banners/Logo_Header_PA.jpg" alt="Pengadilan Agama Bengkulu" width="full" height="full">
 <DOCTYPE html>
 <html lang="en">
   <head>
@@ -38,6 +36,7 @@
  
   <head>
   <body>
+    <img src="https://www.pa-bengkulukota.go.id/images/banners/Logo_Header_PA.jpg" alt="Pengadilan Agama Bengkulu" width="full" height="full">
     <div class="container">
       <div class="row">
         <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12">
