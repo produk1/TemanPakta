@@ -64,6 +64,7 @@
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script type="text/javascript">
        $(document).ready(function () {
+         // Inisialisasi DataTable
     $("#example").DataTable({
       ajax: "https://script.google.com/macros/s/AKfycby0QyUBgOvCfFPVma1rRzk6aGXdMZh-qOSg3ln1DckIw1dm_tkLS9Y6ii0tznDHcNLE/exec",
       columns: [
