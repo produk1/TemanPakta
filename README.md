@@ -77,10 +77,6 @@
             data: "Nomor Perkara",
         },
         {
-            title: "  Status  ",
-            data: "Status",
-        },
-        {
             data: "Nomor Akta Cerai",
             title: "Nomor Akta Cerai",
         },
