@@ -78,7 +78,7 @@
         },
         {
             title: "Tanggal Akta Cerai",
-            data: "Tanggal AKta Cerai",
+            data: "Tanggal Akta Cerai",
         },
         {
             data: "Nomor Akta Cerai",
