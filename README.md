@@ -77,7 +77,7 @@
             data: "Nomor Perkara",
         },
         {
-            title: "Tanggal Akta Cera",
+            title: "Tanggal Akta Cerai",
             data: "Tanggal AKta Cerai",
         },
         {
