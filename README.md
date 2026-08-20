@@ -93,8 +93,8 @@
             title: "Tergugat / Termohon",
         },
         {
-            data: "Nomor Seri",
-            title: "Nomor Seri",
+            data: "Status",
+            title: "Status",
         },
 
       ],
